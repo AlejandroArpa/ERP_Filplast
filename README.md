@@ -9,3 +9,4 @@ Este proyecto, buscar dar solución a los siguientes requerimientos minimos, una
 - [ ] Dado el caso si hay una devolución, es importante que se remita el numero de factura, ingrese el material devuelto a un inventario de "control", se realice la respectiva descarga de las cajas.
 - [ ] Tener la posibilidad de hacer CRUD a las bases de datos desde una interfaz amigable.
 - [ ] Presentar un informe de estado de cuenta para un cliente en especifico.
+- [ ] Contar con un login para autenticación y permitir la validación de roles para los CRUDS
